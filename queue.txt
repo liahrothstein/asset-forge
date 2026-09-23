@@ -1,0 +1,60 @@
+# ===== Ночная очередь: 12 сущностей x 3 варианта =====
+# Формат: имя|промпт|seed   (имя без пробелов, # — комментарий)
+
+# --- Ящики и бочки (базовые пропсы) ---
+crate_wood_v1|one wooden crate, square box, plank walls, reinforced metal corners|31
+crate_wood_v2|one wooden crate, square box, plank walls, reinforced metal corners|32
+crate_wood_v3|one wooden crate, square box, plank walls, reinforced metal corners|33
+
+barrel_oak_v1|one wooden barrel, vertical cylinder, metal bands, weathered oak planks|41
+barrel_oak_v2|one wooden barrel, vertical cylinder, metal bands, weathered oak planks|42
+barrel_oak_v3|one wooden barrel, vertical cylinder, metal bands, weathered oak planks|43
+
+# --- Тара и посуда ---
+pot_clay_v1|one clay pot, terracotta amphora, narrow neck, cracked surface|51
+pot_clay_v2|one clay pot, terracotta amphora, narrow neck, cracked surface|52
+pot_clay_v3|one clay pot, terracotta amphora, narrow neck, cracked surface|53
+
+mug_tin_v1|one tin mug, cylindrical cup, simple handle, dented metal|61
+mug_tin_v2|one tin mug, cylindrical cup, simple handle, dented metal|62
+mug_tin_v3|one tin mug, cylindrical cup, simple handle, dented metal|63
+
+# --- Свет и огонь ---
+lantern_iron_v1|one old iron oil lantern, glass panels, curved top handle|71
+lantern_iron_v2|one old iron oil lantern, glass panels, curved top handle|72
+lantern_iron_v3|one old iron oil lantern, glass panels, curved top handle|73
+
+candle_stub_v1|one candle stub, short thick cylinder, melted wax drips, simple holder|81
+candle_stub_v2|one candle stub, short thick cylinder, melted wax drips, simple holder|82
+candle_stub_v3|one candle stub, short thick cylinder, melted wax drips, simple holder|83
+
+# --- Сундуки и хранение ---
+chest_wood_v1|one wooden chest, rectangular box, curved lid, iron bands, front lock plate|91
+chest_wood_v2|one wooden chest, rectangular box, curved lid, iron bands, front lock plate|92
+chest_wood_v3|one wooden chest, rectangular box, curved lid, iron bands, front lock plate|93
+
+sack_loot_v1|one burlap sack, rounded pouch, tied at the top, slightly open|101
+sack_loot_v2|one burlap sack, rounded pouch, tied at the top, slightly open|102
+sack_loot_v3|one burlap sack, rounded pouch, tied at the top, slightly open|103
+
+# --- Природа и декор ---
+rock_boulder_v1|one single boulder, irregular rounded shape, grey granite, weathered|111
+rock_boulder_v2|one single boulder, irregular rounded shape, grey granite, weathered|112
+rock_boulder_v3|one single boulder, irregular rounded shape, grey granite, weathered|113
+
+stump_old_v1|one old tree stump, low cylinder, visible roots at base, cut top|121
+stump_old_v2|one old tree stump, low cylinder, visible roots at base, cut top|122
+stump_old_v3|one old tree stump, low cylinder, visible roots at base, cut top|123
+
+mushroom_forest_v1|one large fantasy mushroom, thick stem, wide spotted cap|131
+mushroom_forest_v2|one large fantasy mushroom, thick stem, wide spotted cap|132
+mushroom_forest_v3|one large fantasy mushroom, thick stem, wide spotted cap|133
+
+# --- Оружие/инструмент ---
+axe_wood_v1|one woodcutter axe, wooden handle, steel head, simple form|141
+axe_wood_v2|one woodcutter axe, wooden handle, steel head, simple form|142
+axe_wood_v3|one woodcutter axe, wooden handle, steel head, simple form|143
+
+sword_short_v1|one short sword, straight double-edged blade, simple crossguard, vertical|151
+sword_short_v2|one short sword, straight double-edged blade, simple crossguard, vertical|152
+sword_short_v3|one short sword, straight double-edged blade, simple crossguard, vertical|153

@@ -1,0 +1,147 @@
+# ===== Дарк-фэнтези датасет: имя|описание предмета =====
+# Капшен соберётся как: gprop, a single [описание] on a white background
+
+# --- Смерть и погребение ---
+skull01|weathered human skull, intact cranium, aged yellowed bone
+skull02|pile of three neatly stacked weathered human skulls, catacomb style
+tombstone01|cracked stone tombstone with moss in the cracks, gothic rounded top
+tombstone02|tilted ancient stone cross grave marker
+tombstone03|tall gothic stone tombstone with eroded engravings
+sarcophagus01|ancient stone sarcophagus with carved heavy lid
+urn01|ceramic funerary urn, dark clay, engraved bands
+urn02|ceramic funerary urn, dark clay, cracked surface
+coffin01|wooden coffin with iron bands, aged black wood
+memorial01|stone memorial bench with eroded carved plaque
+reliquary01|small reliquary box with gothic ornaments
+
+# --- Освещение ---
+brazier01|iron fire brazier bowl on tripod legs, soot-blackened
+candelabra01|gothic candelabra with three candles, tarnished bronze
+candelabra02|gothic candelabra with five candles, tarnished bronze, wax drips
+lantern01|hanging oil lantern with glass panels, rusted iron
+lantern02|hanging oil lantern, tarnished brass
+candle01|thick candle stub with melted wax drips on a clay dish
+torchholder01|wall-mounted iron torch holder with unlit wooden torch
+chandelier01|iron chandelier with four candle cups, soot-blackened
+
+# --- Культ и оккультизм ---
+altar01|stone ritual altar table with carved blood grooves
+altar02|low stone altar with skull motifs carved on the side
+idol01|small hooded figure idol, ancient dark stone, eroded carvings
+idol02|small seated goddess idol, cracked stone
+runestone01|standing runestone with carved ancient symbols, weathered granite
+runestone02|flat runestone slab with carved ancient symbols, moss patches
+mask01|wooden ritual mask, carved dark wood, eerie stylized face
+mask02|bone ritual mask with carved horns
+censer01|bronze incense burner, dome shaped, tarnished patina
+herbs01|bundle of dried ritual herbs tied with twine
+
+# --- Руины и архитектура ---
+column01|broken ancient stone column fragment, moss patches
+statue01|armless torso of a ruined stone statue, weathered marble
+arch01|collapsed stone arch fragment with broken masonry
+door01|old wooden door with heavy iron bands, arched top
+gate01|section of an old iron gate with vertical rusted bars
+wall01|fragment of ancient stone wall with cracked bricks
+well01|stone well head with a wooden roof frame
+
+# --- Алхимия и ремесло ---
+cauldron01|large round iron cauldron, soot-blackened
+mortar01|stone mortar and pestle, rough granite
+anvil01|blacksmith anvil on a wooden stump, worn steel surface
+grindstone01|old grinding wheel on a wooden frame with crank handle
+scale01|brass apothecary balance scale with two pans, tarnished
+herbrack01|wooden drying rack with bundles of dried herbs
+hammer03|blacksmith hammer with heavy steel head and wooden handle
+ingots01|stack of rough cast iron ingots
+
+# --- Знания ---
+tomes01|stack of three old leather-bound tomes, dusty worn covers
+book01|open ancient book on a wooden lectern stand, yellowed pages
+scroll01|rolled parchment scroll sealed with red wax
+inkwell01|ceramic inkwell with a feather quill, dark glaze
+cabinet01|small wooden apothecary cabinet with many tiny drawers
+
+# --- Военное дело ---
+shield04|round wooden shield with iron boss, battle-worn, faded paint rings
+shield05|kite shield with worn heraldic paint and dented rim
+helmet01|medieval nasal helmet on a wooden stand, battle-worn steel
+quiver01|leather quiver with arrows, worn dark leather
+spear04|wooden spear with steel tip, vertical
+belt01|worn leather belt with a bronze buckle
+
+# --- Мёртвые деревья и пни ---
+tree_dead01|gnarled dead tree without leaves, twisted bare branches, dark bark
+tree_dead02|dead crooked tree with broken branches, weathered grey wood
+tree_dead03|tall dead tree with twisted trunk and sharp bare branches
+stump01|old tree stump with twisted roots at the base, moss on top
+stump02|charred tree stump, blackened cracked wood
+stump03|hollow rotten tree stump with a dark hole in the trunk
+log01|fallen dead log, cracked bark, moss patches
+log02|hollow rotten log, broken ends
+branch01|large twisted dead branch, gnarled dark wood
+
+# --- Корни и коряги ---
+roots01|twisted exposed tree roots cluster, gnarled dead wood
+roots02|tangled ancient tree roots forming an arch
+driftwood01|gnarled driftwood piece, smooth weathered shape
+rootwall01|steep dirt bank section with exposed tangled tree roots
+stump_root01|overturned tree stump with a torn root plate
+
+# --- Камни и скалы ---
+boulder01|large weathered boulder, irregular rounded shape, grey granite
+boulder02|tall standing stone rock, jagged edges, dark slate
+boulder03|massive moss-covered boulder, rounded shape
+rocks01|small cluster of three grey weathered stones
+rocks02|scattered group of flat cracked stepping stones
+flatrock01|flat natural stone slab, weathered surface
+crag01|small jagged rock formation, sharp vertical stones
+pebbles01|small pile of rounded grey river pebbles
+stony01|sharp broken rock chunk, fractured dark stone
+
+# --- Грибы и растения ---
+mushroom01|cluster of three dark fantasy mushrooms, thick stems, spotted caps
+mushroom02|single large fantasy mushroom, tall thick stem, spotted cap
+mushroom03|small group of dried parasol mushrooms, bent caps
+bush_dead01|dead shrub with twisted bare twigs, dry and brittle
+grass_tuft01|tuft of dry withered grass, wild blades
+thorns01|tangled thorny bramble cluster, dark twisted spiked stems
+lilypads01|small cluster of dark swamp lily pads
+
+# --- Останки животных ---
+animal_skull01|weathered animal skull with curved horns, aged bone
+animal_skull02|deer skull with full antlers, aged yellowed bone
+antler01|shed deer antler with branches, aged bone color
+bones01|small scattered pile of old animal bones and ribs
+tusks01|pair of curved weathered animal tusks, ivory
+
+# --- Особые ---
+witchstump01|twisted witch stump with a face-like knot, eerie dark fantasy
+wishingtree01|ancient withered gnarled ritual tree
+stonecircle01|small circle of five standing stones, ancient shrine
+cairn01|stacked stone cairn of five balancing flat stones
+swamptree01|leaning dead swamp tree with hanging moss strands
+throneroots01|gnarled root structure resembling a natural throne
+
+# ============================================================
+# ===== ВАШЕ ОРУЖИЕ (18 шт) — ПРИВЕДИТЕ ПОД СЕБЯ =============
+# Впишите реальные имена файлов и поправьте описания под то,
+# что на картинках. Скрипт отчётливо скажет, какие имена не нашёл.
+# ============================================================
+
+axe01|ornate viking axe, wooden handle, steel head with runic etching, metal mace pommel
+axe02|ornate double-headed battle axe, weathered steel head with scrollwork etching, central spear point, dark metal shaft
+axe03|weathered double-headed executioner's axe, heavy rusted steel head, long wooden handle
+hammer01|heavy-duty blacksmith's hammer, hand-forged steel, metal handle, forged hammer head
+hammer02|heavy blacksmith's hammer, rough-hewn iron head, dark wooden handle, leather-wrapped grip, forged metal pommel
+shield01|weathered medieval heater shield, battle-worn steel, engraved dragon and blue enamel inlay, riveted border
+shield02|weathered medieval heater shield, dark aged wood planks, heavily rusted iron rim and central boss, cross reinforcement straps
+shield03|weathered medieval heater shield, quartered blue and red field, weathered steel rim and central boss, intricate relief-cast dragon and vine motif on the escutcheon
+spear01|ornate elven spear, filigree steel blade, dark wooden shaft, engraved metal pommel
+spear02|medieval partisan spear, weathered steel head with lugs, long wooden shaft
+spear03|ornate fantasy spear, dark metallic shaft, gold filigree ornamentation, steel spearhead, intricate guard
+sword01|weathered two-handed medieval sword, forged steel blade, complex guard with side rings, leather-wrapped grip, octagonal pommel
+sword02|ornate fantasy greatsword, heavily weathered dark steel, intricate gothic hilt and guard, etched runic patterns on blade
+sword03|heavy fantasy greatsword, weathered and rusted dark steel, ornate horned hilt and guard, battle-worn blade
+sword04|weathered falchion-style sword, hand-forged steel blade with patina, simple s-curve iron guard, plain iron hilt
+sword05|heavy fantasy greatsword, rough dark metal casting, ornate hilt and guard, battle-worn blade

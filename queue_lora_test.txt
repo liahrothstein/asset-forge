@@ -1,0 +1,1 @@
+sword_e8|gprop, single medieval arming sword, vertical, worn steel blade, plain crossguard|171|gprop_v1-000008.safetensors:0.9
