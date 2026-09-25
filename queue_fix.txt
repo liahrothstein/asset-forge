@@ -1,0 +1,12 @@
+# ==== Фикс-пачка: проблемные классы, только фаза 1 ====
+scroll_fix1|one rolled up parchment scroll, horizontal cylinder, beige paper, tied with leather cord|601|gprop_v1-000008.safetensors:0.9
+scroll_fix2|one rolled up parchment scroll, horizontal cylinder, beige paper, tied with leather cord|602|gprop_v1-000008.safetensors:0.9
+skull_fix1|one human skull, museum specimen, front three-quarter view, aged bone color|611|gprop_v1-000008.safetensors:0.9
+skull_fix2|one human skull, museum specimen, front three-quarter view, aged bone color|612|gprop_v1-000008.safetensors:0.9
+stump_fix1|one wooden tree stump, cut firewood piece, flat top, bark sides, solid cylinder|621|gprop_v1-000008.safetensors:0.9
+stump_fix2|one wooden tree stump, cut firewood piece, flat top, bark sides, solid cylinder|622|gprop_v1-000008.safetensors:0.9
+tome_fix1|one old book with dark leather cover, standing upright, brass clasp|631|gprop_v1-000008.safetensors:0.9
+tome_fix2|one old book with dark leather cover, standing upright, brass clasp|632|gprop_v1-000008.safetensors:0.9
+altar_clean1|one low stone altar, massive rectangular block on solid legs, dark weathered stone|641|gprop_v1-000008.safetensors:0.9
+idol_clean1|one small standing stone idol, simplified humanoid figure, dark stone|651|gprop_v1-000008.safetensors:0.9
+lantern_frame1|one wrought iron lantern frame, open sides, candle holder inside|661|gprop_v1-000008.safetensors:0.9

@@ -1,0 +1,103 @@
+# ============================================================
+# Датасет v2 — новые 78 референсов
+# Формат: имя|описание предмета
+# Капшен соберётся как: gprop, a single [описание] on a white background
+# ============================================================
+
+# ----- Оружие: мечи (8) -----
+wsword01|medieval longsword, straight double-edged blade, simple steel crossguard, leather-wrapped handle
+wsword02|medieval longsword, straight double-edged blade, simple steel crossguard, leather-wrapped handle
+wsword03|longsword with a wider blade and fuller groove
+wsword04|longsword with a slightly curved guard and round pommel
+wsword05|short arming sword with a plain triangular guard
+wsword06|longsword shown from the flat side, full blade width visible
+wsword07|weathered longsword, dark patina on the blade
+wsword08|longsword with an oxblood leather grip
+
+# ----- Оружие: топоры (8) -----
+waxe01|battle axe with a bearded steel blade on a wooden haft
+waxe02|battle axe with a bearded steel blade on a wooden haft
+waxe03|double-bearded battle axe with a long haft
+waxe04|woodcutter axe with a wide flat blade
+waxe05|small hand axe with a short haft
+waxe06|battle axe shown from the side, full blade profile
+
+# ----- Оружие: булавы (6) -----
+wmace01|medieval mace, flanged steel head on a wooden haft
+wmace02|medieval mace, flanged steel head on a wooden haft
+wmace03|mace with a round spiked head
+wmace04|short mace with six flat flanges
+wmace05|mace head shown from above
+wmace06|mace with a dark iron head and worn grip
+
+# ----- Оружие: кинжалы (6) -----
+wdagger01|dagger with a straight double-edged blade and simple guard
+wdagger02|dagger with a straight double-edged blade and simple guard
+wdagger03|dagger with a slightly curved blade
+wdagger04|broad parrying dagger with a wide guard
+wdagger05|dagger lying at a slight diagonal, full length visible
+wdagger06|darkened steel dagger with a bone handle
+
+# ----- Оружие: молоты (6) -----
+whammer01|war hammer with a square steel head on a long wooden haft
+whammer02|war hammer with a square steel head on a long wooden haft
+whammer03|war hammer with a curved back spike
+whammer04|short blacksmith hammer with a heavy head
+whammer05|war hammer shown from the side
+whammer06|weathered hammer with a cracked wooden haft
+
+# ----- Оружие: щиты (6) -----
+wshield01|round wooden shield with a steel boss, front view
+wshield02|round wooden shield with a steel boss, front view
+wshield03|kite shield with a worn heraldic stripe, front view
+wshield04|rectangular pavise shield with an iron rim, front view
+wshield05|round shield shown at a slight angle, curvature visible
+wshield06|battle-worn shield with a dented rim and faded paint
+
+# ----- Оружие: копья и древковое (8) -----
+wspear01|hunting spear with a leaf-shaped steel tip on a long wooden shaft
+wspear02|hunting spear with a leaf-shaped steel tip on a long wooden shaft
+wspear03|war spear with a barbed tip and iron socket
+wspear04|short throwing javelin with a narrow point
+wspear05|ceremonial spear with a wide dark metal blade
+wspear06|spear shown from the side, full length visible
+wspear07|weathered spear with a wrapped grip near the tip
+wspear08|heavy boar spear with a crossbar below the tip
+
+# ----- Орнаментальные объекты (12) -----
+orn_vase01|large ceremonial vase with raised relief patterns, dark clay
+orn_vase02|ceremonial vase with bold geometric raised bands
+orn_brazier01|iron fire brazier with bold cutout flame patterns on the bowl
+orn_door01|old wooden door with large iron studs and heavy forged bands, front view
+orn_bell01|large bronze bell with raised gothic inscriptions in low relief
+orn_chest01|iron-bound chest with bold raised gothic ornaments on the lid
+orn_helmet01|ceremonial helmet with large raised wing ornaments on the sides
+orn_shield01|ceremonial shield with a raised bronze medallion pattern, front view
+orn_mirror01|antique hand mirror with a thick ornate bronze frame
+orn_throne01|small stone throne with bold stepped carvings on the backrest
+orn_braz_stand01|tall standing candelabra with bold spiraling iron arms and three candles
+orn_sarcophagus01|stone sarcophagus with bold raised gothic panels on the lid
+
+# ----- Ритуальные курительницы (6) -----
+rit_censer_chain01|hanging bronze censer on three short chains, dome shaped
+rit_incense_burner01|stone incense burner bowl with a single thick stick, dark granite
+rit_smoke_vial01|small ceramic smoke vial with a narrow spout, dark glaze
+rit_braz_small01|small round ritual brazier on short legs, soot-blackened
+rit_altar_bowl01|shallow stone offering bowl on a pedestal, weathered
+rit_talisman01|wooden ritual talisman plaque with a bold geometric shape
+
+# ----- Тюремная утварь (6) -----
+dng_shackle01|single iron shackle cuff with a short chain stub, rusted
+dng_shackle02|pair of iron shackles connected by a short heavy chain
+dng_pillory01|wooden pillory with two closed holes, front view
+dng_hook01|large forged iron meat hook, rusted
+dng_cage_small01|small closed iron bird cage with rusted bars
+dng_collar01|iron collar with a rusted chain link
+
+# ----- Некро-артефакты (6) -----
+nec_skull_candle01|human skull used as a candle holder with a single thick candle
+nec_bone_staff01|ritual staff topped with a small animal skull and bone rings
+nec_bone_chime01|hanging chime made of small bones and beads
+nec_heartjar01|dark glass jar with a preserved specimen inside, cork stopper
+nec_bonemap01|flat bone plate engraved with a crude map pattern, front view
+nec_crown01|crown made of fused bones, dark ivory color

@@ -1,0 +1,35 @@
+# ==== Атмосферный набор: 12 x 2 ====
+
+# --- Смерть и погребение ---
+tombstone_r1|one cracked stone tombstone, gothic rounded top, dark weathered stone|301|gprop_v1-000008.safetensors:0.9
+tombstone_r2|one cracked stone tombstone, gothic rounded top, dark weathered stone|302|gprop_v1-000008.safetensors:0.9
+skull_one_r1|one weathered human skull, aged yellowed bone, intact cranium|311|gprop_v1-000008.safetensors:0.9
+skull_one_r2|one weathered human skull, aged yellowed bone, intact cranium|312|gprop_v1-000008.safetensors:0.9
+urn_ash_r1|one ceramic funerary urn, dark clay, engraved bands, aged patina|321|gprop_v1-000008.safetensors:0.9
+urn_ash_r2|one ceramic funerary urn, dark clay, engraved bands, aged patina|322|gprop_v1-000008.safetensors:0.9
+
+# --- Культ и оккультизм ---
+altar_stone_r1|one low stone ritual altar, skull motifs carved on the side, dark stone|331|gprop_v1-000008.safetensors:0.9
+altar_stone_r2|one low stone ritual altar, skull motifs carved on the side, dark stone|332|gprop_v1-000008.safetensors:0.9
+idol_hooded_r1|one small hooded figure idol, ancient dark stone, eroded carvings|341|gprop_v1-000008.safetensors:0.9
+idol_hooded_r2|one small hooded figure idol, ancient dark stone, eroded carvings|342|gprop_v1-000008.safetensors:0.9
+censer_bronze_r1|one bronze incense burner, dome shaped, tarnished patina|351|gprop_v1-000008.safetensors:0.9
+censer_bronze_r2|one bronze incense burner, dome shaped, tarnished patina|352|gprop_v1-000008.safetensors:0.9
+
+# --- Освещение (с фиксами) ---
+brazier_trip_r1|one iron fire brazier bowl on tripod legs, soot-blackened|361|gprop_v1-000008.safetensors:0.9
+brazier_trip_r2|one iron fire brazier bowl on tripod legs, soot-blackened|362|gprop_v1-000008.safetensors:0.9
+lantern_frost_r1|one old iron oil lantern, frosted amber glass panels, curved handle|371|gprop_v1-000008.safetensors:0.9
+lantern_frost_r2|one old iron oil lantern, frosted amber glass panels, curved handle|372|gprop_v1-000008.safetensors:0.9
+
+# --- Природа без кислотного мха ---
+stump_dark_r1|one single tree stump, solid trunk, flat cut top, dark weathered bark|381|gprop_v1-000008.safetensors:0.9
+stump_dark_r2|one single tree stump, solid trunk, flat cut top, dark weathered bark|382|gprop_v1-000008.safetensors:0.9
+log_rotten_r1|one fallen rotten log, cracked bark, dark weathered wood|391|gprop_v1-000008.safetensors:0.9
+log_rotten_r2|one fallen rotten log, cracked bark, dark weathered wood|392|gprop_v1-000008.safetensors:0.9
+
+# --- Знания (одиночный том вместо стопки) ---
+tome_single_r1|one ancient leather-bound tome, closed, worn cover, brass clasps|401|gprop_v1-000008.safetensors:0.9
+tome_single_r2|one ancient leather-bound tome, closed, worn cover, brass clasps|402|gprop_v1-000008.safetensors:0.9
+scroll_wax_r1|one rolled parchment scroll sealed with red wax|411|gprop_v1-000008.safetensors:0.9
+scroll_wax_r2|one rolled parchment scroll sealed with red wax|412|gprop_v1-000008.safetensors:0.9

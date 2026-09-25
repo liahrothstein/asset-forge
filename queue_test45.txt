@@ -1,0 +1,61 @@
+# ==== Контрольный прогон: 15 сущностей x 3 варианта ====
+# Формат: имя|промпт|seed|lora
+
+# --- Класс A: гарантированные (по прошлому опыту) ---
+pot_clay_t|one clay pot, terracotta amphora, narrow neck, cracked surface|101|gprop_v1-000008.safetensors:0.9
+pot_clay_t2|one clay pot, terracotta amphora, narrow neck, cracked surface|102|gprop_v1-000008.safetensors:0.9
+pot_clay_t3|one clay pot, terracotta amphora, narrow neck, cracked surface|103|gprop_v1-000008.safetensors:0.9
+
+rock_boulder_t|one single large boulder, irregular rounded shape, grey granite, moss|111|gprop_v1-000008.safetensors:0.9
+rock_boulder_t2|one single large boulder, irregular rounded shape, grey granite, moss|112|gprop_v1-000008.safetensors:0.9
+rock_boulder_t3|one single large boulder, irregular rounded shape, grey granite, moss|113|gprop_v1-000008.safetensors:0.9
+
+barrel_oak_t|one wooden barrel, vertical cylinder, iron bands, weathered planks|121|gprop_v1-000008.safetensors:0.9
+barrel_oak_t2|one wooden barrel, vertical cylinder, iron bands, weathered planks|122|gprop_v1-000008.safetensors:0.9
+barrel_oak_t3|one wooden barrel, vertical cylinder, iron bands, weathered planks|123|gprop_v1-000008.safetensors:0.9
+
+crate_wood_t|one wooden crate, square box, plank walls, metal corners|131|gprop_v1-000008.safetensors:0.9
+crate_wood_t2|one wooden crate, square box, plank walls, metal corners|132|gprop_v1-000008.safetensors:0.9
+crate_wood_t3|one wooden crate, square box, plank walls, metal corners|133|gprop_v1-000008.safetensors:0.9
+
+stump_dead_t|one old tree stump, twisted roots at base, cut top, moss|141|gprop_v1-000008.safetensors:0.9
+stump_dead_t2|one old tree stump, twisted roots at base, cut top, moss|142|gprop_v1-000008.safetensors:0.9
+stump_dead_t3|one old tree stump, twisted roots at base, cut top, moss|143|gprop_v1-000008.safetensors:0.9
+
+# --- Класс B: средние (декор, свет) ---
+lantern_iron_t|one old iron oil lantern, glass panels, curved top handle|151|gprop_v1-000008.safetensors:0.9
+lantern_iron_t2|one old iron oil lantern, glass panels, curved top handle|152|gprop_v1-000008.safetensors:0.9
+lantern_iron_t3|one old iron oil lantern, glass panels, curved top handle|153|gprop_v1-000008.safetensors:0.9
+
+candle_stub_t|one thick candle stub, melted wax drips, small clay holder|161|gprop_v1-000008.safetensors:0.9
+candle_stub_t2|one thick candle stub, melted wax drips, small clay holder|162|gprop_v1-000008.safetensors:0.9
+candle_stub_t3|one thick candle stub, melted wax drips, small clay holder|163|gprop_v1-000008.safetensors:0.9
+
+chest_wood_t|one wooden chest, rectangular, curved lid, iron bands, lock plate|171|gprop_v1-000008.safetensors:0.9
+chest_wood_t2|one wooden chest, rectangular, curved lid, iron bands, lock plate|172|gprop_v1-000008.safetensors:0.9
+chest_wood_t3|one wooden chest, rectangular, curved lid, iron bands, lock plate|173|gprop_v1-000008.safetensors:0.9
+
+mushroom_dark_t|one cluster of three dark fantasy mushrooms, thick stems, spotted caps|181|gprop_v1-000008.safetensors:0.9
+mushroom_dark_t2|one cluster of three dark fantasy mushrooms, thick stems, spotted caps|182|gprop_v1-000008.safetensors:0.9
+mushroom_dark_t3|one cluster of three dark fantasy mushrooms, thick stems, spotted caps|183|gprop_v1-000008.safetensors:0.9
+
+sack_loot_t|one burlap sack, rounded pouch, tied at the top|191|gprop_v1-000008.safetensors:0.9
+sack_loot_t2|one burlap sack, rounded pouch, tied at the top|192|gprop_v1-000008.safetensors:0.9
+sack_loot_t3|one burlap sack, rounded pouch, tied at the top|193|gprop_v1-000008.safetensors:0.9
+
+# --- Класс C: сложные (тонкие/составные) ---
+sword_arming_t|gprop, single medieval arming sword, vertical, worn steel blade|201|gprop_v1-000008.safetensors:0.9
+sword_arming_t2|gprop, single medieval arming sword, vertical, worn steel blade|202|gprop_v1-000008.safetensors:0.9
+sword_arming_t3|gprop, single medieval arming sword, vertical, worn steel blade|203|gprop_v1-000008.safetensors:0.9
+
+axe_wood_t|gprop, single woodcutter axe, vertical, steel head, wooden haft|211|gprop_v1-000008.safetensors:0.9
+axe_wood_t2|gprop, single woodcutter axe, vertical, steel head, wooden haft|212|gprop_v1-000008.safetensors:0.9
+axe_wood_t3|gprop, single woodcutter axe, vertical, steel head, wooden haft|213|gprop_v1-000008.safetensors:0.9
+
+cauldron_iron_t|one large round iron cauldron, soot-blackened, gothic|221|gprop_v1-000008.safetensors:0.9
+cauldron_iron_t2|one large round iron cauldron, soot-blackened, gothic|222|gprop_v1-000008.safetensors:0.9
+cauldron_iron_t3|one large round iron cauldron, soot-blackened, gothic|223|gprop_v1-000008.safetensors:0.9
+
+book_tome_t|one stack of three old leather-bound tomes, dusty|231|gprop_v1-000008.safetensors:0.9
+book_tome_t2|one stack of three old leather-bound tomes, dusty|232|gprop_v1-000008.safetensors:0.9
+book_tome_t3|one stack of three old leather-bound tomes, dusty|233|gprop_v1-000008.safetensors:0.9

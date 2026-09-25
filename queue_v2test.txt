@@ -1,0 +1,10 @@
+# ==== Стенд gprop_v2: различение классов (один seed 901) ====
+v2_sword|gprop, single medieval longsword, vertical, worn steel blade|901|gprop_v2-000010.safetensors:0.9
+v2_axe|gprop, single battle axe with bearded blade, vertical|901|gprop_v2-000010.safetensors:0.9
+v2_mace|gprop, single medieval mace, flanged head, vertical|901|gprop_v2-000010.safetensors:0.9
+v2_spear|gprop, single hunting spear with leaf-shaped tip, vertical|901|gprop_v2-000010.safetensors:0.9
+v2_shield|gprop, single round wooden shield with steel boss, front view|901|gprop_v2-000010.safetensors:0.9
+v2_dagger|gprop, single dagger with straight blade, vertical|901|gprop_v2-000010.safetensors:0.9
+v2_hammer|gprop, single war hammer with square head, vertical|901|gprop_v2-000010.safetensors:0.9
+# Контроль v1 (тот же промпт меча):
+v1_sword|gprop, single medieval longsword, vertical, worn steel blade|901|gprop_v1-000008.safetensors:0.9
