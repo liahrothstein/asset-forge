@@ -1,0 +1,48 @@
+# =====================================================
+# Batch 2: враги, катакомбы, шахты, природа, быт (34)
+# Референсы уже в work\ref (NB). Фаза 1 — пропуск.
+# =====================================================
+
+# ----- Враги MVP: нежить (8) -----
+enemy_skel_melee|undead skeleton warrior|1|gprop_v2-000010.safetensors:0.9
+enemy_skel_melee2|undead skeleton warrior with shield|1|gprop_v2-000010.safetensors:0.9
+enemy_skel_heavy|undead skeleton brute|1|gprop_v2-000010.safetensors:0.9
+enemy_skel_heavy2|undead skeleton brute with chains|1|gprop_v2-000010.safetensors:0.9
+enemy_skel_ranged|undead skeleton archer|1|gprop_v2-000010.safetensors:0.9
+enemy_skel_ranged2|undead skeleton archer with quiver|1|gprop_v2-000010.safetensors:0.9
+npc_skel_trader|undead skeleton merchant|1|gprop_v2-000010.safetensors:0.9
+npc_skel_trader2|undead skeleton merchant with bag|1|gprop_v2-000010.safetensors:0.9
+
+# ----- Катакомбы + элита (4) -----
+cat_gate|stone archway entrance|1|gprop_v2-000010.safetensors:0.9
+cat_crypt_slab|stone crypt slab|1|gprop_v2-000010.safetensors:0.9
+cat_bonepile|bone pile|1|gprop_v2-000010.safetensors:0.9
+enemy_skel_elder|undead skeleton elder|1|gprop_v2-000010.safetensors:0.9
+
+# ----- Шахтные пропсы (2) -----
+mine_cart|mining cart|1|gprop_v2-000010.safetensors:0.9
+mine_pickaxe|old pickaxe|1|gprop_v2-000010.safetensors:0.9
+
+# ----- Природа: добор пустоши (12) -----
+boulder02|large boulder|1|gprop_v2-000010.safetensors:0.9
+boulder03|mossy boulder|1|gprop_v2-000010.safetensors:0.9
+log02|rotten log|1|gprop_v2-000010.safetensors:0.9
+stump02|charred stump|1|gprop_v2-000010.safetensors:0.9
+stump03|hollow stump|1|gprop_v2-000010.safetensors:0.9
+mushroom02|large mushroom|1|gprop_v2-000010.safetensors:0.9
+mushroom03|parasol mushrooms|1|gprop_v2-000010.safetensors:0.9
+branch01|twisted branch|1|gprop_v2-000010.safetensors:0.9
+roots01|tree roots cluster|1|gprop_v2-000010.safetensors:0.9
+driftwood01|gnarled driftwood|1|gprop_v2-000010.safetensors:0.9
+grass_tuft01|dry grass tuft|1|gprop_v2-000010.safetensors:0.9
+pebbles01|pile of pebbles|1|gprop_v2-000010.safetensors:0.9
+
+# ----- Быт/кузня/знания (8) -----
+anvil01|blacksmith anvil|1|gprop_v2-000010.safetensors:0.9
+cauldron01|iron cauldron|1|gprop_v2-000010.safetensors:0.9
+scale01|brass scale|1|gprop_v2-000010.safetensors:0.9
+inkwell01|ceramic inkwell|1|gprop_v2-000010.safetensors:0.9
+grindstone01|grinding wheel|1|gprop_v2-000010.safetensors:0.9
+book01|open book on lectern|1|gprop_v2-000010.safetensors:0.9
+crag01|jagged rock formation|1|gprop_v2-000010.safetensors:0.9
+flatrock01|flat stone slab|1|gprop_v2-000010.safetensors:0.9

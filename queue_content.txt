@@ -1,0 +1,50 @@
+# ==== Контент-волна 1: 40 ассетов ====
+# Формат: имя|промпт|seed (промпт для манифеста, ref уже есть)
+
+# Смерть и культ (12)
+altar01|stone ritual altar|1|gprop_v2-000010.safetensors:0.9
+altar02|stone ritual altar|1|gprop_v2-000010.safetensors:0.9
+animal_skull01|animal skull|1|gprop_v2-000010.safetensors:0.9
+animal_skull02|animal skull|1|gprop_v2-000010.safetensors:0.9
+coffin01|wooden coffin|1|gprop_v2-000010.safetensors:0.9
+memorial01|stone memorial|1|gprop_v2-000010.safetensors:0.9
+sarcophagus01|stone sarcophagus|1|gprop_v2-000010.safetensors:0.9
+skull01|human skull|1|gprop_v2-000010.safetensors:0.9
+skull02|human skull pile|1|gprop_v2-000010.safetensors:0.9
+tombstone01|stone tombstone|1|gprop_v2-000010.safetensors:0.9
+tombstone02|stone tombstone|1|gprop_v2-000010.safetensors:0.9
+tombstone03|stone tombstone|1|gprop_v2-000010.safetensors:0.9
+
+# Орнаментальные (12)
+orn_bell01|bronze bell|1|gprop_v2-000010.safetensors:0.9
+orn_braz_stand01|standing candelabra|1|gprop_v2-000010.safetensors:0.9
+orn_brazier01|ornate brazier|1|gprop_v2-000010.safetensors:0.9
+orn_chest01|ornate chest|1|gprop_v2-000010.safetensors:0.9
+orn_door01|wooden door|1|gprop_v2-000010.safetensors:0.9
+orn_helmet01|ceremonial helmet|1|gprop_v2-000010.safetensors:0.9
+orn_mirror01|hand mirror|1|gprop_v2-000010.safetensors:0.9
+orn_sarcophagus01|stone sarcophagus with panels|1|gprop_v2-000010.safetensors:0.9
+orn_shield01|ceremonial shield|1|gprop_v2-000010.safetensors:0.9
+orn_throne01|stone throne|1|gprop_v2-000010.safetensors:0.9
+orn_vase01|ceremonial vase|1|gprop_v2-000010.safetensors:0.9
+orn_vase02|ceremonial vase|1|gprop_v2-000010.safetensors:0.9
+
+# Ритуальные и некро (12)
+rit_altar_bowl01|stone offering bowl|1|gprop_v2-000010.safetensors:0.9
+rit_braz_small01|small ritual brazier|1|gprop_v2-000010.safetensors:0.9
+rit_censer_chain01|hanging censer|1|gprop_v2-000010.safetensors:0.9
+rit_incense_burner01|incense burner bowl|1|gprop_v2-000010.safetensors:0.9
+rit_smoke_vial01|ceramic smoke vial|1|gprop_v2-000010.safetensors:0.9
+rit_talisman01|wooden talisman plaque|1|gprop_v2-000010.safetensors:0.9
+nec_bone_chime01|bone chime|1|gprop_v2-000010.safetensors:0.9
+nec_bone_staff01|bone-topped ritual staff|1|gprop_v2-000010.safetensors:0.9
+nec_bonemap01|engraved bone plate|1|gprop_v2-000010.safetensors:0.9
+nec_crown01|bone crown|1|gprop_v2-000010.safetensors:0.9
+nec_heartjar01|specimen jar|1|gprop_v2-000010.safetensors:0.9
+nec_skull_candle01|skull candle holder|1|gprop_v2-000010.safetensors:0.9
+
+# Природа (4 примера, остальное — следующая волна)
+boulder01|large boulder|1|gprop_v2-000010.safetensors:0.9
+log01|fallen log|1|gprop_v2-000010.safetensors:0.9
+stump01|tree stump|1|gprop_v2-000010.safetensors:0.9
+mushroom01|fantasy mushroom cluster|1|gprop_v2-000010.safetensors:0.9

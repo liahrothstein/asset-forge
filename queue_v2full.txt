@@ -1,0 +1,33 @@
+# ==== Полный стенд gprop_v2: все классы, один seed 905 ====
+
+# --- Оружие (уже проверено частично, для сводной таблицы) ---
+t_sword|gprop, single medieval longsword, vertical, worn steel blade|905|gprop_v2-000010.safetensors:0.9
+t_dagger|gprop, single dagger with straight blade, vertical|905|gprop_v2-000010.safetensors:0.9
+t_spear|gprop, single hunting spear with leaf-shaped tip, vertical|905|gprop_v2-000010.safetensors:0.9
+
+# --- Новые NB-классы v2 (обучались на 6-12 примерах) ---
+t_ornvase|gprop, single ceremonial vase with raised relief patterns, dark clay|905|gprop_v2-000010.safetensors:0.9
+t_orndoor|gprop, single old wooden door with iron studs, front view|905|gprop_v2-000010.safetensors:0.9
+t_ornbell|gprop, single large bronze bell with raised inscriptions|905|gprop_v2-000010.safetensors:0.9
+t_ornhelm|gprop, single ceremonial helmet with raised wing ornaments|905|gprop_v2-000010.safetensors:0.9
+t_ornmirror|gprop, single antique hand mirror with ornate bronze frame|905|gprop_v2-000010.safetensors:0.9
+t_ornthrone|gprop, single small stone throne with stepped carvings|905|gprop_v2-000010.safetensors:0.9
+t_sarcoph|gprop, single stone sarcophagus with raised gothic panels|905|gprop_v2-000010.safetensors:0.9
+
+t_censer|gprop, single hanging bronze censer on chains, dome shaped|905|gprop_v2-000010.safetensors:0.9
+t_incense|gprop, single stone incense burner bowl with a stick|905|gprop_v2-000010.safetensors:0.9
+t_altarbowl|gprop, single shallow stone offering bowl on pedestal|905|gprop_v2-000010.safetensors:0.9
+t_talisman|gprop, single wooden ritual talisman plaque, geometric|905|gprop_v2-000010.safetensors:0.9
+
+t_shackle|gprop, single iron shackle cuff with chain stub, rusted|905|gprop_v2-000010.safetensors:0.9
+t_pillory|gprop, single wooden pillory with two holes, front view|905|gprop_v2-000010.safetensors:0.9
+t_hook|gprop, single large forged iron meat hook, rusted|905|gprop_v2-000010.safetensors:0.9
+t_cage|gprop, single small closed iron bird cage, rusted bars|905|gprop_v2-000010.safetensors:0.9
+t_collar|gprop, single iron collar with chain link|905|gprop_v2-000010.safetensors:0.9
+
+t_skullcandl|gprop, single human skull candle holder with thick candle|905|gprop_v2-000010.safetensors:0.9
+t_bonestaff|gprop, single ritual staff topped with animal skull|905|gprop_v2-000010.safetensors:0.9
+t_bonechime|gprop, single hanging chime made of bones and beads|905|gprop_v2-000010.safetensors:0.9
+t_heartjar|gprop, single dark glass jar with specimen, cork stopper|905|gprop_v2-000010.safetensors:0.9
+t_bonemap|gprop, single flat bone plate with map pattern, front view|905|gprop_v2-000010.safetensors:0.9
+t_necrocrown|gprop, single crown made of fused bones, dark ivory|905|gprop_v2-000010.safetensors:0.9
